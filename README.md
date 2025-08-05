@@ -34,7 +34,7 @@ This is a simple Python tool that helps identify the hashing algorithm used (bas
 ## 📁 Requirements
 
 - Python 3.x
-- `rockyou.txt` wordlist (included in the repository)
+- `rockyou.txt` wordlist (found on the internet)
 
 ---
 
